@@ -12,7 +12,7 @@ Here are some screenshots showing what you can learn with Home Bakery:
 
 
 
-Features:
+* Features
 1. View All Courses (Course info , Course Level , Chef Name , location , Date & time ...)
 2. View Upcoming & Popular courses
 3. View Course Location on MapKit (DummyData)
