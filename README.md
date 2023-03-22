@@ -7,8 +7,9 @@ It has an unique interface that displays a list of courses to help you achive yo
 
 
 ## Home Bakery
+![Untitled](https://user-images.githubusercontent.com/116809082/226914958-8f94f9b8-0e8c-41c2-8088-aa98e501e69c.png)
 
-![Untitled](https://user-images.githubusercontent.com/116809082/226912317-5e8a4893-18ec-4c48-b154-789f46d1af2b.png)
+
 
 ## Features
 1. View All Courses (Course info , Course Level , Chef Name , location , Date & time ...)
