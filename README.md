@@ -8,15 +8,20 @@ It has an unique interface that displays a list of courses to help you achive yo
 
 Here are some screenshots showing what you can learn with Home Bakery:
 
-
-
-
+![Untitled](https://user-images.githubusercontent.com/116809082/226912317-5e8a4893-18ec-4c48-b154-789f46d1af2b.png)
 
 * Features
-- View All Courses (Course info , Course Level , Chef Name , location , Date & time ...)
-- View Upcoming & Popular courses
-- View Course Location on MapKit (DummyData)
-- Book Class for Baking Courses with specific chef.
+1. View All Courses (Course info , Course Level , Chef Name , location , Date & time ...)
+2. View Upcoming & Popular courses
+3. View Course Location on MapKit (DummyData)
+4. Book Class for Baking Courses with specific chef.
 
 
-* Author
+* Contributing
+Thanks to my team mate Alaa AlSulaiman.
+
+
+* Author README
+Saffanah Alkhathlan
+
+
